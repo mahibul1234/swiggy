@@ -57,7 +57,8 @@ st.plotly_chart(fig1,use_container_width=True)
 
 st.markdown('-----')
 
-st.markdow('This web app made by mahibul1234@gmail.com')
+st.markdown("This web app made by mahibul1234@gmail.com")
+
 
 
 
